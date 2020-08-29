@@ -1,0 +1,9 @@
+<Lava>
+    <Ring1 Name = "Dragon" ID = "1"/>
+
+    <Ring2 Name = "Scorpion" ID = "2"/>
+
+    <Ring3 Name = "Camel" ID = "3"/>
+
+    <Ring4 Name = "Pheonix" ID = "4"/>
+</Lava>
